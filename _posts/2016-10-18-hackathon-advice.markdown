@@ -19,7 +19,11 @@ The organisers had set up a Slack group and I’d nominated in my application to
 
 > If you sign up for a hackathon please attend or cancel your place with plenty of notice, it’s not fair to take the place of someone who could have attended.
 
-The first event of the evening was pitches. This is where people who have ideas stand up in front of everyone and pitch their idea to the group. They generally give an overview of why their idea is important, what they’d like to make and what skills they already have in their group and which ones they still need. This is it, I thought, my team only has two people and no idea! I had one idea I could pitch. So I told my team member, a business analyst and budding data person, what my idea was and she loved it! At the last minute we threw together a bit more of an idea and we stood up on stage together and I pitched! Going into the room I never imagined doing this, but everyone was so welcoming and it wasn’t terrifying at all. I even got a little applause when I said that while I wasn’t a dev yet I was learning. 
+The first event of the evening was pitches. This is where people who have ideas stand up in front of everyone and pitch their idea to the group. They generally give an overview of why their idea is important, what they’d like to make and what skills they already have in their group and which ones they still need. This is it, I thought, my team only has two people and no idea! I had one idea I could pitch. So I told my team member, a business analyst and budding data person, what my idea was and she loved it! At the last minute we threw together a bit more of an idea and we stood up on stage together and I pitched! 
+
+![Pitching at She Hacks]({{ site.url }}/assets/shehacks.jpg)
+
+Going into the room I never imagined doing this, but everyone was so welcoming and it wasn’t terrifying at all. I even got a little applause when I said that while I wasn’t a dev yet I was learning. 
 
 > You probably have an idea in you, share it! It’s unlikely to be silly.
 
