@@ -4,7 +4,8 @@ title:  "Hackathon advice from a first timer"
 date:   2016-10-18 20:33:00 +1100
 categories: jekyll update
 ---
-About a month ago I attended my first ever hackathon, She Hacks 2016. And won a prize!
+About a month ago I attended my first ever hackathon, [She Hacks 2016][She Hacks 2016]. And won a prize!
+
 I was really worried I wouldn’t be good enough. When I signed up I downplayed my skills - I’m not a professional developer so the idea of claiming to be a “dev” for a hackathon felt like I was overstating my skills and my team would hate me when they got me instead of a real dev. The subtext of my application was basically “I’d love to do it but you should pick a “real” dev over me or put me in a team with an actual dev. I'm so glad they didn't!
 
 When I turned up on the day I didn’t write my role on my nametag because I wasn’t sure what I could offer to my team. Someone asked me what my role was and I said “maybe developer, maybe project manager” and they said “wow! You can do everything!”. What I'd actually meant was that I would like to be a developer but I wasn’t sure I could offer enough development skills to be called a developer and so I would be ok falling back to project management, which is more what I do in my every day job. Turns out I knew plenty to be able to act as a developer and learnt a whole lot too.
@@ -31,7 +32,7 @@ It turns out I didn’t even need to make a pitch though, there were plenty of g
 
 > Look after yourself. Hackathons are full on and you won’t be performing at your best if you don’t.
 
-The Saturday started with a free coffee from the sponsors (thanks Prismatik!) and a bit more planning. Overnight we’d been sharing research on the slack group and one of our team had found an existing app that worked in a very similar way to my idea. Oh no. In retrospect I would have pushed through with the idea – in a hackathon you’re generally not expected to come up with a completely unique idea, you just need to find that “point of difference”. I think my idea did have a point of difference – it was a very simple idea with none of the bells and whistles (and sign up barriers) that this similar app had, and aimed at women rather than business. Chatting to mentors later they agreed, we could’ve continued on with the idea. But in the moment it seemed very important that we had a unique idea, and I was happy to acquiesce so we could get working on something. I worried that if we spent too much time discussing points of difference and researching similar ideas we wouldn’t have a product to show at the end of the day.
+The Saturday started with a free coffee from one of the sponsors (thanks [Prismatik!][Prismatik]) and a bit more planning. Overnight we’d been sharing research on the slack group and one of our team had found an existing app that worked in a very similar way to my idea. Oh no. In retrospect I would have pushed through with the idea – in a hackathon you’re generally not expected to come up with a completely unique idea, you just need to find that “point of difference”. I think my idea did have a point of difference – it was a very simple idea with none of the bells and whistles (and sign up barriers) that this similar app had, and aimed at women rather than business. Chatting to mentors later they agreed, we could’ve continued on with the idea. But in the moment it seemed very important that we had a unique idea, and I was happy to acquiesce so we could get working on something. I worried that if we spent too much time discussing points of difference and researching similar ideas we wouldn’t have a product to show at the end of the day.
 
 > Don’t [bike shed][bike-shed] or spend too much time research what others have done, create something!
 
@@ -39,7 +40,7 @@ Luckily someone else had a great idea they’d wanted to pitch but hadn’t. We 
 
 > Don’t get too attached to your idea and don’t be afraid to pivot. If you end up not following through with an original idea that doesn’t mean it will never see the light of day.
 
-Once we’d decided what features we should have, we drew some very rough mock ups of each screen. At this point we only had a couple of hours of actual hacking time left to us, so I suggested we carve up the work and get going. Everyone was keen to get into making the wire frame prototype (one of us had found a great tool for iPhone prototyping) but I suggested that our marketer might be able to get started on our final presentation. I’m glad she was happy to because she produced an amazing Canva presentation with lots of data to support our idea. 
+Once we’d decided what features we should have, we drew some very rough mock ups of each screen. At this point we only had a couple of hours of actual hacking time left to us, so I suggested we carve up the work and get going. Everyone was keen to get into making the wire frame prototype (one of us had found a great tool for iPhone prototyping) but I suggested that our marketer might be able to get started on our final presentation. I’m glad she was happy to because she produced an amazing [Canva][Canva] presentation with lots of data to support our idea. 
 
 > Project management is important, carve up the work to make sure you’ll have a product within the timeframe.
 
@@ -47,8 +48,12 @@ A couple of hours later we had a prototype app that we could demonstrate and a v
 
 > Put in the work on your presentation, it’s what the judges will base their decision on.
 
-I went into this hackathon thinking I had no skills to offer, that I wouldn’t know anyone and I wouldn’t have any ideas. Well, it turns out that I left a winner! Our team won the people’s choice award! My Arduino is going in the pool room and my award is going on my resume. So that’s my final piece of advice: 
+I went into this hackathon thinking I had no skills to offer, that I wouldn’t know anyone and I wouldn’t have any ideas. Well, it turns out that I left a winner! Our team won the people’s choice award! My Arduino (thanks [MYOB][MYOB]!) is going in the pool room and my award is going on my resume. So that’s my final piece of advice: 
 
 > Just go for it. You’ll never know what will happen. You might win!
 
 [bike-shed]: https://en.wiktionary.org/wiki/bikeshedding
+[Canva]: http://www.canva.com/
+[Prismatik]: http://prismatik.com.au/
+[MYOB]: http://www.myob.com/au
+[She Hacks 2016]: http://www.girlgeeksydney.com/shehacks2016FAQ.html
