@@ -13,7 +13,7 @@ According to Caoilte, we all sit on a scale between passive and dominant. This i
 Caoilte listed some types of power that people may wield in meetings:
 
 1. Hard power - I'm your boss/senior so you should do what I say
-2. Informational power learned power - I've read many books and I read this in a book so you should do what I say
+2. Informational power - I've read many books and I read this in a book so you should do what I say
 2. Expert power - I'm very well qualified and have been here for a long time you should do what I say
 3. Referent power - You like me you should do what I say.
 
