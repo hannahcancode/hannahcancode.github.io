@@ -20,7 +20,8 @@ So that's the website, but now for the blog bit. Github pages comes with [Jekyll
 
 You can tweak your css and templates to your liking. If you're using the default template then you can easily add disqus comments by adding the following to your config (if you're not using the default template then you will need to add some code to your templates or individual posts):
 
-	disqus_shortname: username
+	 disqus:
+	 	shortname: my_disqus_shortname
 
 Note: If you'd installed Jekyll recently and noticed that when running locally, the Minima theme was creating it's urls using the base hostname you'd specified in the config file, including for your css file - [update jekyll and github pages][update]! This has been fixed and you will no longer need the [workarounds][workarounds].
 
