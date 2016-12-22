@@ -8,4 +8,4 @@ I'm a new Sydneysider, on the path to being a junior developer and an active mem
 
 Outside of coding I love eating brunch, travelling, drinking coffee and patting dogs. I'm loving Sydney life and exploring the big city. On the side I also dabble in podcasting and am a beginner arduino and robot enthusistic. 
 
-I'm documenting my journey here and at {% include icon-twitter.html username="hannahcancode" %}
+I'm documenting my journey here and at {% include icon-twitter.html username="hannahcancode" %}.
