@@ -22,7 +22,7 @@ url: "https://hannahcancode.github.io" # the base hostname & protocol for your s
 twitter_username: hannahcancode
 github_username:  hannahcancode
 disqus:
-  shortname: my_disqus_shortname
+  shortname: hannahcancode
 # Build settings
 markdown: kramdown
 theme: minima
