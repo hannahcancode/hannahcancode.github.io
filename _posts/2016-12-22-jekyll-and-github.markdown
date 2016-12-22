@@ -23,7 +23,7 @@ You can tweak your css and templates to your liking. If you're using the default
 	disqus:
 		shortname: my_disqus_shortname
 
-Note: If you'd installed Jekyll recently and noticed that when running locally, the Minima theme was creating it's urls using the base hostname you'd specified in the config file, including for your css file - [update jekyll and github pages][update]! This has been fixed and you will no longer need the [workarounds][workarounds].
+Note: If you've installed Jekyll recently and noticed that when running locally, the Minima theme was creating its urls using the base hostname you'd specified in the config file, including for your css file, thus pulling your css from github instead of localhost - [update jekyll and github pages][update]! This has been fixed and you will no longer need the [workarounds][workarounds].
 
 For more information check out the [Jekyll documentation][Jekyll docs] and the walkthroughs on [Github Pages][github pages] and [installing Jekyll locally][local Jekyll].
 
