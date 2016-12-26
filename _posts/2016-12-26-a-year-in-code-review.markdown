@@ -8,7 +8,7 @@ date:   2016-12-26 21:00:00 +1100
 
 **January and February** started off slowly, I got a promotion at work and a lot of my mental energy was dedicated to that adjustment. I watched a few lectures on Coursera from their Internet History, Technology and Security, Principles of Computing, and Python for Databases courses.
 
-**March** was when I really threw myself into learning, and started to hold myself accountable. I set up {% include icon-twitter.html username="hannahcancode" %} on twitter and {% include icon-github.html username="hannahcancode" %} on github to share what I was doing. Looking back through my early tweets, there's more negative self talk than I would have imagined - I used words like 'shitty' and 'rubbish' to downplay my achievements. I'm pleased to say I think I've turned this around.
+**March** was when I really threw myself into learning, and started to hold myself accountable. I set up a twitter account ({% include icon-twitter.html username="hannahcancode" %}) and a github account ({% include icon-github.html username="hannahcancode" %}) to share what I was doing. Looking back through my early tweets, there's more negative self talk than I would have imagined - I used words like 'shitty' and 'rubbish' to downplay my achievements. I'm pleased to say I think I've turned this around.
 
 I also dived into working on my pyglet game, dealing with classes (both one I'd made and pyglet's classes), **kwargs, inheritence and composition. I animated my character's walk so she didn't hover, implemented multiple screens and set up a game of life style disease progression for my trees, changing their colour when "disease" hit.
 
