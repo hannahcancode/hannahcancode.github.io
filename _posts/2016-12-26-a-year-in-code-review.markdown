@@ -26,7 +26,7 @@ In **June** I actually registered for PyCon AU.
 
 In **July** I went to my first ever tech meetup, a NodeGirls Sydney workshop, where I worked through the javascripting tutorial, learnt some node.js and MET SOME PEOPLE LIKE ME! Revelations. I also got my first ever swag (free stuff hooray!). I'd highly recommend going to this workshop next time it comes around.
 
-In **August** I moved to Sydney for work and love. I didn't realise quite how much of an impact this would have on my coding. It turns out *community* aids success, at least for me. If I can see it I can be it! 
+In **August** I moved to Sydney for work and love. I didn't realise quite how much of an impact this would have on my coding. It turns out *community* aids success, at least for me. If I can see it I can be it! The Sydney tech community is huge, amazing and the women in tech are some of the best people I've ever met. So welcoming.
 
 ![If it fits, I sits](http://i2.kym-cdn.com/photos/images/newsfeed/000/292/580/fd8.jpg){: .small-image-centre}
 
