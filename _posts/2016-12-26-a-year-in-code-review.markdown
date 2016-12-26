@@ -4,23 +4,23 @@ title:  "2016: A Year in Code Review"
 date:   2016-12-26 21:00:00 +1100
 ---
 
-2016 was a big year for everyone it seems, and it was an especially big year for me in my code adventure. I went from being very hesistant about my skills to someone who is ready to be a junior developer for real. So while I finish off the last of the Christmas pavlova, I thought I'd look back on my year in code.
+2016 was a big year for everyone it seems, and it was an especially big year for me in my code adventure. I went from being very hesitant about my skills to someone who is ready to be a junior developer for real. So while I finish off the last of the Christmas pavlova, I thought I'd look back on my year in code.
 
 **January and February** started off slowly, I got a promotion at work and a lot of my mental energy was dedicated to that adjustment. I watched a few lectures on Coursera from their Internet History, Technology and Security, Principles of Computing, and Python for Databases courses.
 
 **March** was when I really threw myself into learning, and started to hold myself accountable. I set up a twitter account ({% include icon-twitter.html username="hannahcancode" %}) and a github account ({% include icon-github.html username="hannahcancode" %}) to share what I was doing. Looking back through my early tweets, there's more negative self talk than I would have imagined - I used words like 'shitty' and 'rubbish' to downplay my achievements. I'm pleased to say I think I've turned this around.
 
-I also dived into working on my pyglet game, dealing with classes (both one I'd made and pyglet's classes), **kwargs, inheritence and composition. I animated my character's walk so she didn't hover, implemented multiple screens and set up a game of life style disease progression for my trees, changing their colour when "disease" hit.
+I also dived into working on my pyglet game, dealing with classes (both ones I'd made and pyglet's classes), **kwargs, inheritance and composition. I animated my character's walk so she didn't hover, implemented multiple screens and set up a game of life style disease progression for my trees, changing their colour when "disease" hit.
 
-In **April** I did a fair bit of non-code work on my sprites, making nicer walking animations (with bounce!) and refining my main character's face (got rid of her mouth, a permanent smile was creepy). I also rolled up my sleeves, brewed a lot of V60 coffee, and spent a day qualifying for Google Code Jam 2016! I was very pleased with myself. I competed in round 1A too, and got the first question right in a flash. Unfortunately I overthought the second question, but I was pleased to see I was on the right track.
+In **April** I did a fair bit of non-code work on my sprites, making nicer walking animations (with bounce!) and refining my main character's face (got rid of her mouth, a permanent smile was creepy). I also rolled up my sleeves, brewed a lot of V60 coffee, and spent a day qualifying for Google Code Jam 2016! I was very pleased with myself. I competed in round 1A too, and got the first question right in a flash. Unfortunately I over thought the second question, but I was pleased to see I was on the right track.
 
 ![Code Jam 2016]({{ site.url}}/assets/codejam.jpg){: .small-image-centre}
 
-In **May** I implemented adorable mushrooms in my game, that randomly grew from nothing and shrank away a few seconds later. I created an inventory system and made the mushrooms collectable with a button press when you got close enouch to them.
+In **May** I implemented adorable mushrooms in my game, that randomly grew from nothing and shrank away a few seconds later. I created an inventory system and made the mushrooms collectable with a button press when you got close enough to them.
 
 ![Spawning mushrooms]({{ site.url}}/assets/mushrooms.png){: .small-image-centre}
 
-I also booked flights and accomodation for PyCon AU in Melbourne. Interestingly I didn't book my ticket until later... imposter syndrome perhaps?
+I also booked flights and accommodation for PyCon AU in Melbourne. Interestingly I didn't book my ticket until later... imposter syndrome perhaps?
 
 In **June** I actually registered for PyCon AU.
 
@@ -38,7 +38,7 @@ It was also the month of PyCon AU and unfortunately I was still recovering from 
 
 **October** was potentially even bigger. I challenged myself to do something code related (doing, learning, talking) every day of the month (I got... close). But, I did some refresher front end courses (bootstrap, css, javascript, jquery), got some amazing resume tips at a Women Who Code meetup and registered for Linux Conference AU 2017. I started pulling apart websites to see how they were doing cool things, and managed to replicate some in easier ways. I also made my first ever commit to github and published my first post on this blog.
 
-In **November** I submitted a talk proposal to [WOOTConf][WOOTConf], and was accepted! So I set about fufilling the promise I'd made in my proposal, and started learning Go and arduino.
+In **November** I submitted a talk proposal to [WOOTConf][WOOTConf], and was accepted! So I set about fulfilling the promise I'd made in my proposal, and started learning Go and arduino.
 
 Finally, **December**. I gave a lightning talk at Women Who Code Sydney about my arduino adventures, and tentatively started jobhunting. And I bought a robot!
 
