@@ -13,7 +13,7 @@ Jules' wardrobe is a visual representation of a user's wardrobe. It is a mobile 
 
 For the project my client and I decided an iPhone app would be the best platform. We'd been learning React in class, but I'd already looked into React Native and I decided that would be a good framework to use, along with a Node.js/Express.js/MongoDB backend using the Cloudinary API for image storage. I was really happy with the outcome from using React Native - it's a really satisfying feeling to have such responsive, native components on your device that respond well to touch.
 
-![Jules wardrobe](http://res.cloudinary.com/doe2gejvd/image/upload/s--IxCYo44S--/c_scale,h_442,q_58/v1497684990/juleswardrobe_duetsk.gif)
+![Jules wardrobe](http://res.cloudinary.com/doe2gejvd/image/upload/s--IxCYo44S--/c_scale,h_442,q_58/v1497684990/juleswardrobe_duetsk.gif){: .img-responsive, .small-image-centre}
 
 That said, there's still lots of work to be done. As we had less than two weeks from ideation and initial design to presentation of our MVP (minimal viable product) my code needs some cleanup! I need to refactor my components into seperate files, implement Redux and recreate some of the open source components so they're more suited to my design. While the final project may be submitted and presented at this point, I still plan to keep working on this as a side project.
 
