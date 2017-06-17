@@ -5,7 +5,7 @@ title:  "Final CFA project - Jules' Wardrobe"
 
 Last week was my final week of classes with Coder Academy (previously known as Coder Factory Academy) and on Friday we all presented our final projects. The variety was pretty outstanding, from VR galleries to warehouse scanners to restaurant buzzers and React dashboards - I was really proud of all my fellow classmates, we've come so far! I wanted to write a quick post about my project - Jules' Wardrobe.
 
-![Jules' Wardrobe]( http://res.cloudinary.com/doe2gejvd/image/upload/s--E_LxoOj6--/v1497253693/Screen_Shot_2017-06-12_at_5.47.07_pm_yn9vio.png){: .img-responsive, medium-image-centre}
+![Jules' Wardrobe]( http://res.cloudinary.com/doe2gejvd/image/upload/s--E_LxoOj6--/v1497253693/Screen_Shot_2017-06-12_at_5.47.07_pm_yn9vio.png){: .img-responsive, small-image-centre}
 
 The spiel goes like this - have you seen Clueless? Because I made a mobile app inspired by Cher's Closet. It was on the request of a friend - we had to work with a client for this project - but it's a project I'm very excited about. If you haven't seen Clueless for a while, [this video](https://www.youtube.com/embed/XNDubWJU0aU) might give you some indication of what I was expected to make! (Well, not quite that. I'm yet to get touchscreen working on a Classic Macintosh!)
 
